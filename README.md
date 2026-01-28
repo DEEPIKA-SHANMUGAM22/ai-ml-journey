@@ -1,4 +1,4 @@
-# AI/ML Journey – Dubai Placement
+# AI/ML Journey – Placement
 
 This repository tracks my 7-month journey toward securing an AI/ML or Computer Vision role.
 
